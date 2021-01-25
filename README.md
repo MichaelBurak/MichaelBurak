@@ -5,23 +5,23 @@
 
 - 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis)
 
-- 🌱 I’m currently learning **more and more data engineering!**
+- 🌱 I’m currently learning **more and more data engineering - cloud, Big Data, databases and DevOps, oh my!**
 
-- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health**
+- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for strong front-end developer/web designe.r**
 
-- 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out!**
+- 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out! Always looking to exchange knowledge!**
 
 - 👨‍💻 A sample of my projects are available at [https://michaelrburakportfolio.netlify.app/](https://michaelrburakportfolio.netlify.app/)
 
 - 📝 I write articles on [http://michaelburak.net/](http://michaelburak.net/)
 
-- 💬 Ask me about **Python, JS, SQL**
+- 💬 Ask me about **Python, JS, SQL, data through the stack.**
 
 - 📫 How to reach me **michaelrburak@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
+- 📄 Know about my experiences(resume) [https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me about Aristotle!**
+- ⚡ Fun fact **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
