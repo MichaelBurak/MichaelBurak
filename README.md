@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **michaelrburak@gmail.com**
 
-- 📄 Know about my experiences(resume) [https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
+- 📄 Know about my experiences[(resume)](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
