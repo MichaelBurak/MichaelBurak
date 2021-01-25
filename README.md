@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
 
-- 🔭 I’m currently working on [an analysis of fashion innerwear data!](https://github.com/MichaelBurak/fashion-data-analysis)
+- 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis)
 
-- 🌱 I’m currently learning **more and more data science!**
+- 🌱 I’m currently learning **more and more data engineering!**
 
 - 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health**
 
