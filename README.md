@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more and more data engineering - cloud, Big Data, databases and DevOps, oh my!**
 
-- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for strong front-end developer/web designe.r**
+- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for strong front-end developer/web designer**
 
 - 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out! Always looking to exchange knowledge!**
 
