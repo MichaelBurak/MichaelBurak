@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out! Always looking to exchange knowledge!**
 
-- 👨‍💻 A sample of my projects are available at [https://michaelrburakportfolio.netlify.app/](https://michaelrburakportfolio.netlify.app/)
-
-- 📝 I write articles on [http://michaelburak.net/](http://michaelburak.net/)
+- 👨‍💻 My personal website is [https://www.emilytburak.com/](https://www.emilytburak.com/)
 
 - 💬 Ask me about **Python, JS, SQL, data through the stack.**
 
