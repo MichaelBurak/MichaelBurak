@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, JS, SQL, data through the stack.**
 
-- 📫 How to reach me **michaelrburak@gmail.com**
+- 📫 How to reach me **emily@emilytburak.com**
 
 - 📄 Know about my experiences[(resume)](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
 
