@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Em{they/them}</h1>
+<h1 align="center">Hi 👋, I'm Em{she/they}</h1>
 <h3 align="center">Artificial Intelligence | Engineer at DataRobot | Full Stack Developer | Data Science</h3>
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
