@@ -4,22 +4,21 @@
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
 
 - 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis)
+  - But you may be better served checking out [this repo!](https://github.com/MichaelBurak/fast-rf-api) There and the [hosted frontend](https://iris-classifier-client.netlify.app/) are where I try out some of the new things I'm learning.
 
-- 🌱 I’m currently learning **more and more data engineering - cloud, Big Data, databases and DevOps, oh my!**
+- 🌱 I’m currently learning **all about machine learning deployments/MLOps: API design, DevOps, Cloud tech!**
 
-- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for strong front-end developer/web designer**
+- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for a strong front-end developer/web designer, if that's you then what are you waiting for?**
 
 - 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out! Always looking to exchange knowledge!**
 
 - 👨‍💻 My personal website is [https://www.emilytburak.com/](https://www.emilytburak.com/)
 
-- 💬 Ask me about **Python, JS, SQL, data through the stack.**
+- 💬 Ask me about **Python, JS, SQL, data through the stack in machine learning.**
 
 - 📫 How to reach me **emily@emilytburak.com**
 
-- 📄 Know about my experiences[(resume)](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
-
-- ⚡ Fun fact **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
+- ⚡ Fun fact to wrap this up: **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
