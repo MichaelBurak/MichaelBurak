@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Em{she/they}</h1>
-<h3 align="center">Artificial Intelligence | Data Scientist @ 4th-IR | Full Stack Developer | Data Science</h3>
+<h3 align="center">Data Scientist | Full Stack Developer | Devops</h3>
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
 
-- 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis)
-  - But you may be better served checking out [this repo!](https://github.com/MichaelBurak/fast-rf-api) There and the [hosted frontend](https://iris-classifier-client.netlify.app/) are where I try out some of the new things I'm learning.
+- 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis) and a rich text editor focusing on collaboration/commenting(not up publicly yet.)
 
-- 🌱 I’m currently learning **all about machine learning deployments/MLOps: API design, DevOps, Cloud tech!**
+- 🌱 I’m currently learning **all about DevOps/MLOps, especially Cloud tech!**
 
-- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for a strong front-end developer/web designer, if that's you then what are you waiting for?**
+- 👯 I’m looking to collaborate on **a graph-based thought mapping application for mental health, looking for a strong front-end developer/web designer, if that's you then what are you waiting for? Reach out!**
 
 - 🤝 I’m looking for help with **mentorship and collaboration/teaching, reach out! Always looking to exchange knowledge!**
 
-- 👨‍💻 My personal website is [https://www.emilytburak.com/](https://www.emilytburak.com/)
+- 👨‍💻 My personal website is [https://www.emilytburak.com/](https://www.emilytburak.com/), I blog there and on LinkedIn.
 
-- 💬 Ask me about **Python, JS, SQL, data through the stack in machine learning.**
+- 💬 Ask me about **Python, JS, SQL, data through the stack in machine learning, as well as DevOps topics.**
 
-- 📫 How to reach me **emily@emilytburak.com**
+- 📫 How to reach me: **emily@emilytburak.com**
 
 - ⚡ Fun fact to wrap this up: **I'm a dual degree holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
