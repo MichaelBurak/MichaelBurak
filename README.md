@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Em{she/they}</h1>
-<h3 align="center">Data Scientist | Full Stack Developer | Devops</h3>
+<h3 align="center">DevOps Engineer | Full Stack Developer | Data Sci</h3>
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
 
-- 🔭 I’m currently working on [a data science analysis of the global arms trade!](https://github.com/MichaelBurak/arms-trade-analysis) and a rich text editor focusing on collaboration/commenting(not up publicly yet.)
+- 🔭 I’m currently working on studying AWS and CI/CD techniques as well as engineering a rich text editor focusing on collaboration/commenting(not up publicly yet.)
 
 - 🌱 I’m currently learning **all about DevOps/MLOps, especially Cloud tech!**
 
