@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> </p>
 
-- 🔭 I’m currently working on studying AWS and CI/CD techniques as well as engineering a rich text editor focusing on collaboration/commenting(not up publicly yet.)
+- 🔭 I’m currently working on studying AWS and CI/CD techniques such as [this repo](https://github.com/MichaelBurak/Terraform-AWS-Docker-Jupyterlab-Starter) using Terraform to provision a Docker container running JupyterLab on EC2 that is under active development towards a more robust infrastructure with best practices.
 
 - 🌱 I’m currently learning **all about DevOps/MLOps, especially Cloud tech!**
 
